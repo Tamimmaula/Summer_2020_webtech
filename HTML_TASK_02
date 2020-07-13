@@ -34,6 +34,8 @@
   <label for="cc"> Bsc</label>
   <input type="checkbox" id="dd" name="dd" value="msc">
   <label for="dd"> Msc</label>
+      <p> photo</p> 
+  <input type="file" name="fileToUpload" id="fileToUpload">
   
   
   <br>
